@@ -1,4 +1,3 @@
-text
 # Docker Setup & Control Guide
 *For Raspberry Pi & Linux*
 
